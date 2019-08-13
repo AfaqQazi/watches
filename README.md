@@ -1,1 +1,1 @@
-Added a readMe
+Basic Watches showcase and cart system
